@@ -1,0 +1,14 @@
+/*SPACING RULES*/
+
+li {
+    margin-left:20px;
+    margin-top:10px;
+}
+
+ol {
+    margin-top:50px;
+}
+
+h1 {
+    text-align:center;
+}
